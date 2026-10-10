@@ -1,0 +1,32 @@
+{
+  "ui_theme": "jade",
+  "capture_duration_ms": 800,
+  "font_color": "#252525",
+  "background_color": "#faf9f6",
+  "font_size": 11,
+  "font_weight": "normal",
+  "opacity": 100,
+  "overlay_font_color": "#252525",
+  "overlay_background_color": "#ffffff",
+  "overlay_font_size": 11,
+  "overlay_font_weight": "normal",
+  "overlay_opacity": 100,
+  "overlay_topmost": true,
+  "start_shortcut": "0",
+  "shortcut_capture_version": "2",
+  "save_failed_captures": false,
+  "recognition_mode": "持续模式",
+  "show_low_rarity": false,
+  "show_blue_rarity": true,
+  "show_white_rarity": false,
+  "overlay_columns": 1,
+  "enabled_filters": {
+    "category": false,
+    "grid": true,
+    "rarity": false
+  },
+  "audio_source_mode": "系统输出",
+  "audio_target_process": "",
+  "audio_auto_device": false,
+  "audio_gain_db": "0"
+}
