@@ -75,7 +75,6 @@ cd Arena-Breakout-Infinite/听声软件/SoundRecognizer
 ```
 听声软件/
 ├── 声音识别.lnk                     快捷方式（指向本机 exe）
-├── 更新内容.txt                     更新日志（10.8 / 10.9 / 10.10）
 └── SoundRecognizer/
     ├── SoundRecognizer.exe          主程序
     ├── settings.json                用户设置（界面改动自动保存）
